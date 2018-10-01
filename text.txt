@@ -1,1 +1,1 @@
-Hello, Vi Improved!
+Hello, editor!      
